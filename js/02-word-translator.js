@@ -1,5 +1,5 @@
 // Prompt the user for a language code 
-let langCode = prompt('Enter a language code (es, de, en, fr')
+let langCode = prompt('Enter a language code (es, de, en, fr)')
 
 // Initialize the greeting variable
 let greeting

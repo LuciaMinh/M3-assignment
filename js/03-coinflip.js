@@ -7,7 +7,7 @@ if (randomNum < 0.5){
     coinFlip = 0 // Heads
 }
 else {
-    confirm = 1 // Tails
+    coinFlip = 1 // Tails
 }
 
 // Prompt the user to select 'Heads' or 'Tails'
